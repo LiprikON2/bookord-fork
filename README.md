@@ -1,5 +1,7 @@
 # Bookord
 
+# Repo moved to [https://github.com/LiprikON2/bookord](https://github.com/LiprikON2/bookord)
+
 
 ![](https://i.imgur.com/I25O50n.png)
 
